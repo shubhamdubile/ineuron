@@ -10,6 +10,12 @@
     <td>01</td>
     <td>1/09/20</td>
     <td>Assignment 01</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>10/11/20</td>
+    <td>Assignment 02</td>
     <td>-</td>
   </tr>
 </table>
